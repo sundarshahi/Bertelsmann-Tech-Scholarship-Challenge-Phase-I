@@ -2,7 +2,7 @@
 
 It's been my pleasure and honor to be one of the Udacity Bertelsmann Scholarship Recipient - Artificial Intelligence (A.I) Track. Thus, this repository is dedicated to my study in the Phase 1(The Challenge Course) and Phase 2(Deep Learning Nanodegree) which I am claiming to get. 
 
-![Scholarship Badge](/asset/Bertelsmann-2019@2x.jpg)
+![Scholarship Badge](/assets/Bertelsmann-2019@2x.jpg)
 
 The repository contains the exercises with discussions given by the course but it will also contain another folder for my own restructure of discussions and experimentations.
 
